@@ -1,0 +1,8 @@
+# Qt build artifacts
+Makefile
+Makefile.Debug
+Makefile.Release
+object_script.gestion_biblio.Debug
+object_script.gestion_biblio.Release
+debug/moc_*.cpp
+ui_*.h
